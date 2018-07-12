@@ -1,4 +1,4 @@
-# Student-Database
+# Student-Database (Java)
 This is a student Database that tracks Grade, Enrolled Classes, and Tuition Cost:
   
 Store all information in one centralized database - from basic student records to extended family and sibling relationships, foster family/guardianship information, sports and club activities, honors, health records, and more:
